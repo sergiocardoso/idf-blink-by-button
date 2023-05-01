@@ -1,0 +1,9 @@
+{
+  "C_Cpp.intelliSenseEngine": "Tag Parser",
+  "files.associations": {
+    "*.embeddedhtml": "html",
+    "task.h": "c",
+    "gpio.h": "c",
+    "sdkconfig.h": "c"
+  }
+}
